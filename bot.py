@@ -13,8 +13,8 @@ welcome_bonus = 100
 ref_bonus = 500
 min_view = 100
 max_view = 30000
-required_channels = ['@pythonViewbooster']  # more channel same as
-payment_channel = "@pythonViewbooster"
+required_channels = []  # more channel same as
+payment_channel = ""
 
 
 # Function to check if the user is a member of all required channels
